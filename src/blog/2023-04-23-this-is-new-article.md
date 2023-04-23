@@ -1,6 +1,6 @@
 ---
 title: This is new article
-description: this article is to test wehere the image is placed.
+description: Where the image is placed?
 author: Leonard
 date: 2023-04-23T15:27:11.386Z
 tags: "['posts']"
